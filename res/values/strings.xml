@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Final Uesb</string>
+    <string name="app_name">Nota Final</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-    <string name="unidade1">Nota I</string>
-    <string name="unidade2">Nota II</string>
-    <string name="unidade3">Nota III</string>
-    <string name="mfinal">Nota Necessaria Na Final: </string>
-    <string name="btcalc">Calcular!</string>
-
+    <string name="nota_1">I Unidade</string>
+    <string name="nota_2">II Unidade</string>
+    <string name="nota_3">III Unidade</string>
+    <string name="media">Média: </string>
+    <string name="cal">OK</string>
+    
 </resources>
